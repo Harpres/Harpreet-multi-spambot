@@ -4,7 +4,7 @@
 
 ### SUDO HANDLER * plugins like (*ping), (*bigspam) , (*raid) ,(*replyraid) and more
 
-##   - 「[𝗢𝘄𝗻𝗲𝗿](https://t.me/YashOP_XD) ✗ [𝗢𝘄𝗻𝗲𝗿2](https://t.me/xGODWOLF)」
+##   - 「[𝗢𝘄𝗻𝗲𝗿](https://t.me/ITZ_HARPREET_07)
 
 <p align="center">
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YASHYT2233/ARKHAM-X-GOD-MULTISPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Harpres/Harpreet-multi-spambot/tree/main)
 
 ## String Session FOR  BOT AND IDS 
 
